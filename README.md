@@ -1,6 +1,5 @@
 # Keypad Calculator
-
-This is a simple keypad calculator implemented using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division in an easy-to-use keypad interface.
+simple keypad calculator implemented using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division in an easy-to-use keypad interface.
 
 ## Features
 
