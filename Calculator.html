@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Keypad Calculator</title>
 </head>
 <body>
@@ -23,8 +24,10 @@
             <button onclick="appendToDisplay('*')">*</button>
             <button onclick="appendToDisplay('0')">0</button>
             <button onclick="clearDisplay()">C</button>
+            <button onclick="calculateResult()">=</button>
             <button onclick="appendToDisplay('/')">/</button>
         </div>
     </div>
+    <script src="CalculatorBackend.js"></script>
 </body>
 </html>
