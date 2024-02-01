@@ -4,7 +4,6 @@ simple keypad calculator implemented using HTML, CSS, and JavaScript. It provide
 ## Features
 
 - **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division calculations.
-- **Responsive Design:** The calculator is designed to be responsive and works well on various screen sizes.
 - **Clear and Intuitive Interface:** The keypad layout makes it easy to input numbers and perform calculations.
 
 ### Using the Calculator:
